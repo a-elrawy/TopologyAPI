@@ -3,7 +3,7 @@
 
 
 
->>an api to access, manage and store device topologies.
+>an api to access, manage and store device topologies.
 
 ## Functionality
 
